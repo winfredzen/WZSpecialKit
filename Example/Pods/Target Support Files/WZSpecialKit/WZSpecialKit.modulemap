@@ -1,0 +1,6 @@
+framework module WZSpecialKit {
+  umbrella header "WZSpecialKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

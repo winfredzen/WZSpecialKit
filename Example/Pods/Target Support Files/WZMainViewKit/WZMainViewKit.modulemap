@@ -1,0 +1,6 @@
+framework module WZMainViewKit {
+  umbrella header "WZMainViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

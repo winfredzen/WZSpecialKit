@@ -1,0 +1,51 @@
+{
+  "name": "WZSpecialKit",
+  "version": "0.1.0",
+  "summary": "A short description of WZSpecialKit.",
+  "description": "WZSpecialKit",
+  "homepage": "https://github.com/winfredzen/WZSpecialKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "winfredzen": "wangzhen@curefun.com"
+  },
+  "source": {
+    "git": "https://github.com/winfredzen/WZSpecialKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WZSpecialKit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "WZAPIsKit": [
+
+    ],
+    "WZReformerKeysKit": [
+
+    ],
+    "WZMainViewKit": [
+
+    ],
+    "WZCategoryKit": [
+
+    ],
+    "WZToolsKit": [
+
+    ],
+    "WZConfigsKit": [
+
+    ]
+  }
+}

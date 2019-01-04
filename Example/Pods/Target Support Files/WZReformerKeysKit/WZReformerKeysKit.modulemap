@@ -1,0 +1,6 @@
+framework module WZReformerKeysKit {
+  umbrella header "WZReformerKeysKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
