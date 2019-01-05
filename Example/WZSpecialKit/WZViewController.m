@@ -7,6 +7,7 @@
 //
 
 #import "WZViewController.h"
+#import <WZSpecialKit/WZSpecialKit-umbrella.h>
 
 @interface WZViewController ()
 
@@ -18,6 +19,12 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    self.view.backgroundColor = [UIColor redColor];
+
+    FFSpecialDetailController *detailVC = [[FFSpecialDetailController alloc] init];
+    [self.view addSubview:detailVC.view];
+    
 }
 
 - (void)didReceiveMemoryWarning

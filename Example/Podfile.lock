@@ -33,7 +33,7 @@ PODS:
   - WZConfigsKit (0.1.1)
   - WZMainViewKit (0.1.0)
   - WZReformerKeysKit (0.1.0)
-  - WZSpecialKit (0.1.0):
+  - WZSpecialKit (0.1.5):
     - Masonry
     - ReactiveCocoa (~> 2.5)
     - WZAPIsKit
@@ -90,7 +90,7 @@ SPEC CHECKSUMS:
   WZConfigsKit: c59f771296e7fe4b169f8caac78fa0bfacaa39e4
   WZMainViewKit: 39b21f613871b095cb94fdb319dc30a811d212b2
   WZReformerKeysKit: 83f4a022dadcf56f68ff040a191b1e8c06284076
-  WZSpecialKit: 52f8983afbca57a16fd78f352fe285a2e2dac2de
+  WZSpecialKit: d4347f1ecda76a8efb27b7e7bfecc0fe7bfd9754
   WZToolsKit: 46dd0287b5ac7d3389f477622e2f8e707163cb34
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
   YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
